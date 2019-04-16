@@ -1,6 +1,6 @@
 # Criando APIs com Node.js GraphQL JWT Sequelize e TS
 
-Curso Udamy - https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize/
+Curso Udemy - https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize/
 
 **Aprenda a criar suas próprias API's usando GraphQL e uma série de tecnologias através de um projeto 100% prático!**
 
