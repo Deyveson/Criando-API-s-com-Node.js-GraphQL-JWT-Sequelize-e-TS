@@ -23,3 +23,12 @@ Curso Udamy - https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequel
 **Fazer deploy na nuvem**
 
 **Integração contínua com Bitbucket Pipelines**
+
+## Installation and run
+
+1. Clone this repository: `git clone git@github.com:apollographql/graphql-server-example.git`
+2. `cd` into the `project root` folder and run the following commands:
+    1. Install `npm install`
+    2. Run gulp `npm run gulp`
+    3. Run App `npm run dev`
+3. Open your browser and see the server running on `localhost:3000/` with the GraphQL playground.
