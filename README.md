@@ -6,23 +6,23 @@ Curso Udamy - https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequel
 
 ## O que você aprenderá
 
-**Principais conceitos e porque usar GraphQL**
+1. Principais conceitos e porque usar GraphQL
 
-**Criar API's GraphQL com NodeJS**
+2. Criar API's GraphQL com NodeJS
 
-**Usar JWT para autenticação com GraphQL**
+3. Usar JWT para autenticação com GraphQL
 
-**Configurar e usar TypeScript no projeto**
+4. Configurar e usar TypeScript no projeto
 
-**Modelar dados usando Sequelize / MySQL**
+5. Modelar dados usando Sequelize / MySQL
 
-**Otimizar consultas ao banco com Data Loaders e AST**
+6. Otimizar consultas ao banco com Data Loaders e AST
 
-**Implementar um ambiente de testes automatizados**
+7. Implementar um ambiente de testes automatizados
 
-**Fazer deploy na nuvem**
+8. Fazer deploy na nuvem
 
-**Integração contínua com Bitbucket Pipelines**
+9. Integração contínua com Bitbucket Pipelines
 
 ## Installation and run
 
