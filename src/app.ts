@@ -1,0 +1,26 @@
+import * as express from 'express';
+import * as graphqlHTTP from 'express-graphql'
+import schema from './graphql/schema';
+import { graphql } from 'graphql';
+
+class App {
+
+    public express: express.Application;
+
+    constructor(){
+        this.express = express();
+        this.middleware();
+    }
+
+    private middleware(){
+        
+        this.express.use('/graphql', graphqlHTTP({
+            schema: schema,
+            graphiql: process.env.NODE_ENV == 'development'
+        }))
+
+    }
+
+}
+
+export default new App().express
