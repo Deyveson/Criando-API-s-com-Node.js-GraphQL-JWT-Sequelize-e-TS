@@ -2,7 +2,7 @@
 
 Curso Udamy - https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize/
 
-**Aprenda a criar suas próprias API's usando GraphQL e uma série de tecnologias através de um projeto 100% prático!
+**Aprenda a criar suas próprias API's usando GraphQL e uma série de tecnologias através de um projeto 100% prático!**
 
 ## O que você aprenderá
 
